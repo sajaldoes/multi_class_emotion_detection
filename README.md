@@ -8,7 +8,7 @@
 
 <p>
     <center><b>Workflow Diagram</b></center>
-    <img src="1.jpg" alt> 
+    <img src="workflow.png" alt> 
 </p>
 
 <p>
